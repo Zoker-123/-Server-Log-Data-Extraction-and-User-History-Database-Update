@@ -50,6 +50,6 @@ The script performs the following analyses:
 - Total number of emails.
 
 ## Insights
-- Domain Popularity: Gmail dominates email activity, followed by Yahoo.
-- Temporal Patterns: Most emails are sent in early morning hours (e.g., 00:00–02:00).
-- User Activity: Some users send emails across multiple days, indicating consistent engagement.
+- **Domain Popularity**: Gmail dominates email activity, followed by Yahoo.
+- **Temporal Patterns**: Most emails are sent in early morning hours (e.g., 00:00–02:00).
+- **User Activity**: Some users send emails across multiple days, indicating consistent engagement.
