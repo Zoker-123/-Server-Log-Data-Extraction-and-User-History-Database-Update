@@ -34,22 +34,22 @@ The task is to:
 ## Analytical Queries
 The script performs the following analyses:
 
-List unique email addresses.
-Count emails per day.
-Find first and last email dates per address.
-Count emails per domain.
-Emails per hour of day.
-Emails with multiple entries.
-Top 3 days with most emails.
-Count unique domains.
-Emails active on a specific date.
-Average emails per address.
-Domains active on multiple days.
-Time gap between first and last emails.
-Emails sent in the morning.
-Total number of emails.
+- List unique email addresses.
+- Count emails per day.
+- Find first and last email dates per address.
+- Count emails per domain.
+- Emails per hour of day.
+- Emails with multiple entries.
+- Top 3 days with most emails.
+- Count unique domains.
+- Emails active on a specific date.
+- Average emails per address.
+- Domains active on multiple days.
+- Time gap between first and last emails.
+- Emails sent in the morning.
+- Total number of emails.
 
 ## Insights
-Domain Popularity: Gmail dominates email activity, followed by Yahoo.
-Temporal Patterns: Most emails are sent in early morning hours (e.g., 00:00–02:00).
-User Activity: Some users send emails across multiple days, indicating consistent engagement.
+- Domain Popularity: Gmail dominates email activity, followed by Yahoo.
+- Temporal Patterns: Most emails are sent in early morning hours (e.g., 00:00–02:00).
+- User Activity: Some users send emails across multiple days, indicating consistent engagement.
